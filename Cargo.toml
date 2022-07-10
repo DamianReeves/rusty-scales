@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["rusty/rusty-cli","rusty/rusty-core"]
